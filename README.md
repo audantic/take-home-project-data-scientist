@@ -14,9 +14,9 @@ In the terminal:
 ```
 cd ~/Documents/
 
-git clone https://github.com/audantic/take-home-project-data-analyst.git
+git clone https://github.com/audantic/take-home-project-data-scientist.git
 
-cd take-home-project-data-analyst
+cd take-home-project-data-scientist
 ```
 
 ### 1.2 Set up Docker
@@ -51,12 +51,12 @@ Executing the command: jupyter notebook
     
     Copy/paste this URL into your browser when you connect for the first time,
     to login with a token:
-        http://localhost:8888/?token=c08dd7b6e98ac6658203af4426626e1ae2514cdb8c60c864
+        http://localhost:8888/?token=abcdefg
 ```
 
 Copy/paste this URL into your browser.
 
-Once the notebook is running, go into the work directory and open the "project.ipynb"
+Once the notebook is running, go into the work directory and open the "modeling.ipynb"
 
 
 
@@ -119,3 +119,4 @@ audantic_target|pid|did|fips|zipcode|seller_occupied|square_footage|year_built|e
 0|1494|605007197|36059|11553.0|1|1344|1957|397000|11.3402|87500|18|18|0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0
 0|1527|571263516|36059|11580.0|0|907|1953|370000|4.3094|300000|10|10|0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0
 0|1565|569012570|36059|11590.0|1|1165|1958|401000|0.2053|112500|18|18|0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0
+
